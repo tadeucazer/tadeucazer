@@ -1,6 +1,10 @@
 ## Tadeu Cazer 👋
 ## Hello, Devs!!
 
+:blue_heart: Aquariano 
+:star: 30 anos
+& :cat: Pai de Pet!
+
 <!--
 **tadeucazer/tadeucazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
